@@ -1,0 +1,11 @@
+2023-02-05 23:14:43,878 ERROR [JavaFX Application Thread] h.j.p.a.UserManager [UserManager.java:50] Invalid username: 
+2023-02-05 23:14:52,549 INFO [JavaFX Application Thread] h.j.p.d.ObjectStore [ObjectStore.java:40] Reached end of objects file after reading 48 objects: data\changes.dat
+2023-02-05 23:14:57,721 ERROR [Thread-5] h.j.p.d.DataBaseAccess [DataBaseAccess.java:54] Failed to connect to database
+2023-02-05 23:15:10,028 INFO [JavaFX Application Thread] h.j.p.d.ObjectStore [ObjectStore.java:40] Reached end of objects file after reading 49 objects: data\changes.dat
+2023-02-05 23:15:12,173 ERROR [Thread-9] h.j.p.d.DataBaseAccess [DataBaseAccess.java:54] Failed to connect to database
+2023-02-05 23:15:12,293 ERROR [Thread-11] h.j.p.d.DataBaseAccess [DataBaseAccess.java:54] Failed to connect to database
+2023-02-05 23:15:13,263 ERROR [Thread-12] h.j.p.d.DataBaseAccess [DataBaseAccess.java:54] Failed to connect to database
+2023-05-27 14:29:11,779 INFO [JavaFX Application Thread] h.j.p.d.ObjectStore [ObjectStore.java:40] Reached end of objects file after reading 50 objects: data\changes.dat
+2023-05-27 14:29:33,685 ERROR [Thread-5] h.j.p.d.DataBaseAccess [DataBaseAccess.java:54] Failed to connect to database
+2023-05-27 14:29:34,457 ERROR [Thread-8] h.j.p.d.DataBaseAccess [DataBaseAccess.java:54] Failed to connect to database
+2023-05-27 14:29:42,297 ERROR [JavaFX Application Thread] h.j.p.d.DataBaseAccess [DataBaseAccess.java:54] Failed to connect to database
