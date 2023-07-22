@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.LineChart?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.web.WebView?>
+
+<AnchorPane prefHeight="562.0" prefWidth="704.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hr.java.projektnizadatak.presentation.views.CryptoPriceChartView">
+   <children>
+      <WebView layoutY="50.0" prefHeight="494.0" prefWidth="704.0" />
+      <Button layoutX="638.0" layoutY="14.0" mnemonicParsing="false" onAction="#logout" text="Logout" />
+      <Button layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#switchToPrice" text="Back to prices" />
+      <LineChart fx:id="lineChart" layoutY="121.0" prefHeight="441.0" prefWidth="704.0">
+        <xAxis>
+          <CategoryAxis prefHeight="24.0" prefWidth="647.0" side="BOTTOM" fx:id="xAxis" />
+        </xAxis>
+        <yAxis>
+          <NumberAxis fx:id="yAxis" side="LEFT" />
+        </yAxis>
+      </LineChart>
+      <Pane layoutX="252.0" layoutY="14.0">
+         <children>
+            <TextField fx:id="cryptoNameInput" />
+            <Button layoutX="149.0" mnemonicParsing="false" onAction="#createChart" text="Create" />
+         </children>
+      </Pane>
+      <Label fx:id="cryptoNameLabel" alignment="CENTER" layoutX="131.0" layoutY="77.0" prefHeight="25.0" prefWidth="121.0" />
+      <Label fx:id="highestPriceLabel" alignment="CENTER" layoutX="292.0" layoutY="64.0" prefHeight="25.0" prefWidth="121.0" />
+      <Label fx:id="lowestPriceLabel" alignment="CENTER" layoutX="292.0" layoutY="101.0" prefHeight="25.0" prefWidth="121.0" />
+      <Label fx:id="currentPriceLabel" alignment="CENTER" layoutX="452.0" layoutY="77.0" prefHeight="25.0" prefWidth="121.0" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,18 @@
+package hr.java.projektnizadatak.shared.exceptions;
+
+public class FxmlLoadingException extends RuntimeException {
+	public FxmlLoadingException() {
+	}
+
+	public FxmlLoadingException(String message) {
+		super(message);
+	}
+
+	public FxmlLoadingException(String message, Throwable cause) {
+		super(message, cause);
+	}
+
+	public FxmlLoadingException(Throwable cause) {
+		super(cause);
+	}
+}

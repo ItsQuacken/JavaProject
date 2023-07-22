@@ -1,11 +1,282 @@
-2023-02-05 23:14:43,878 ERROR [JavaFX Application Thread] h.j.p.a.UserManager [UserManager.java:50] Invalid username: 
-2023-02-05 23:14:52,549 INFO [JavaFX Application Thread] h.j.p.d.ObjectStore [ObjectStore.java:40] Reached end of objects file after reading 48 objects: data\changes.dat
-2023-02-05 23:14:57,721 ERROR [Thread-5] h.j.p.d.DataBaseAccess [DataBaseAccess.java:54] Failed to connect to database
-2023-02-05 23:15:10,028 INFO [JavaFX Application Thread] h.j.p.d.ObjectStore [ObjectStore.java:40] Reached end of objects file after reading 49 objects: data\changes.dat
-2023-02-05 23:15:12,173 ERROR [Thread-9] h.j.p.d.DataBaseAccess [DataBaseAccess.java:54] Failed to connect to database
-2023-02-05 23:15:12,293 ERROR [Thread-11] h.j.p.d.DataBaseAccess [DataBaseAccess.java:54] Failed to connect to database
-2023-02-05 23:15:13,263 ERROR [Thread-12] h.j.p.d.DataBaseAccess [DataBaseAccess.java:54] Failed to connect to database
-2023-05-27 14:29:11,779 INFO [JavaFX Application Thread] h.j.p.d.ObjectStore [ObjectStore.java:40] Reached end of objects file after reading 50 objects: data\changes.dat
-2023-05-27 14:29:33,685 ERROR [Thread-5] h.j.p.d.DataBaseAccess [DataBaseAccess.java:54] Failed to connect to database
-2023-05-27 14:29:34,457 ERROR [Thread-8] h.j.p.d.DataBaseAccess [DataBaseAccess.java:54] Failed to connect to database
-2023-05-27 14:29:42,297 ERROR [JavaFX Application Thread] h.j.p.d.DataBaseAccess [DataBaseAccess.java:54] Failed to connect to database
+2023-06-13 15:31:25,365 ERROR [JavaFX Application Thread] h.j.p.d.ObjectStore [ObjectStore.java:50] Error while reading file: data\changes.dat
+2023-06-13 15:32:44,209 ERROR [JavaFX Application Thread] h.j.p.a.UserManager [UserManager.java:62] Username taken: KarloTest
+2023-06-13 15:33:26,789 ERROR [JavaFX Application Thread] h.j.p.d.ObjectStore [ObjectStore.java:50] Error while reading file: data\changes.dat
+2023-06-13 15:33:31,776 ERROR [JavaFX Application Thread] h.j.p.a.UserManager [UserManager.java:62] Username taken: KarloTest1
+2023-06-13 15:33:52,346 ERROR [JavaFX Application Thread] h.j.p.d.ObjectStore [ObjectStore.java:50] Error while reading file: data\changes.dat
+2023-06-13 15:36:29,940 ERROR [JavaFX Application Thread] h.j.p.d.ObjectStore [ObjectStore.java:50] Error while reading file: data\changes.dat
+2023-06-13 16:47:10,693 ERROR [JavaFX Application Thread] h.j.p.a.UserManager [UserManager.java:49] Invalid username: Karlo131203'
+2023-06-23 15:12:35,959 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:85] Error while trying to connect to the database
+2023-06-23 15:12:45,923 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:112] User logged out
+2023-06-24 19:01:09,247 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:85] Error while trying to connect to the database
+2023-06-24 19:01:50,528 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:85] Error while trying to connect to the database
+2023-06-24 19:01:52,169 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:112] User logged out
+2023-06-24 19:02:08,134 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:85] Error while trying to connect to the database
+2023-06-25 14:03:20,780 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:84] Error while trying to connect to the database
+2023-06-25 14:03:24,756 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:111] User logged out
+2023-06-26 22:51:51,241 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:111] User logged out
+2023-06-26 23:00:06,070 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:111] User logged out
+2023-06-26 23:23:49,618 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:113] User logged out
+2023-06-26 23:23:57,267 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:113] User logged out
+2023-06-26 23:26:22,915 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:48] User failed login
+2023-06-27 00:24:52,876 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:239] API reached limit and cannot fetch data
+2023-06-27 15:28:39,237 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:111] User logged out
+2023-06-27 15:28:44,166 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:48] User failed login
+2023-06-27 15:28:46,285 ERROR [JavaFX Application Thread] h.j.p.e.UserManager [UserManager.java:59] Username taken: karlo123
+2023-06-27 15:28:46,304 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:70] User tried to create account using already existing username
+2023-06-27 15:29:07,226 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:111] User logged out
+2023-06-27 15:58:57,573 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:146] User logged out
+2023-06-27 16:10:18,304 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:146] User logged out
+2023-06-27 16:18:00,183 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-27 16:18:52,402 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-27 16:23:53,741 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:48] User failed login
+2023-06-27 16:37:47,843 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-27 16:41:33,388 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:48] User failed login
+2023-06-27 16:41:59,927 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-27 16:42:04,028 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:48] User failed login
+2023-06-27 16:52:41,381 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-27 16:53:02,664 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:253] API reached limit and cannot fetch data
+2023-06-27 16:53:37,358 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-27 16:54:29,487 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-27 16:54:34,565 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:48] User failed login
+2023-06-27 17:43:05,429 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:48] User failed login
+2023-06-27 17:45:17,829 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:48] User failed login
+2023-06-27 17:55:44,333 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:48] User failed login
+2023-06-27 18:23:51,946 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:48] User failed login
+2023-06-27 18:42:11,395 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:48] User failed login
+2023-06-27 18:42:52,641 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:257] API reached limit and cannot fetch data
+2023-06-27 18:43:23,178 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:257] API reached limit and cannot fetch data
+2023-06-27 18:45:29,789 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:48] User failed login
+2023-06-27 18:45:41,240 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:257] API reached limit and cannot fetch data
+2023-06-27 18:46:36,481 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:257] API reached limit and cannot fetch data
+2023-06-27 18:49:22,020 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:257] API reached limit and cannot fetch data
+2023-06-27 18:53:39,182 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:48] User failed login
+2023-06-27 18:53:43,603 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:48] User failed login
+2023-06-27 18:54:01,236 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:258] API reached limit and cannot fetch data
+2023-06-27 18:55:18,320 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:257] API reached limit and cannot fetch data
+2023-06-27 18:56:26,988 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:257] API reached limit and cannot fetch data
+2023-06-27 18:58:15,972 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:257] API reached limit and cannot fetch data
+2023-06-27 18:59:21,124 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:257] API reached limit and cannot fetch data
+2023-06-27 19:00:23,601 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:258] API reached limit and cannot fetch data
+2023-06-27 19:02:41,498 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:48] User failed login
+2023-06-27 19:08:44,679 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-27 19:11:58,503 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-27 19:33:12,953 ERROR [JavaFX Application Thread] h.j.p.e.UserManager [UserManager.java:59] Username taken: hefjagw
+2023-06-27 19:33:13,024 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:70] User tried to create account using already existing username
+2023-06-27 19:45:30,170 ERROR [JavaFX Application Thread] h.j.p.e.UserManager [UserManager.java:47] Invalid username: jkawbdjh,aw
+2023-06-27 19:45:30,260 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:66] User tried to create account using invalid characters
+2023-06-27 19:52:13,180 ERROR [JavaFX Application Thread] h.j.p.e.UserManager [UserManager.java:59] Username taken: aijwlduap
+2023-06-27 19:52:13,217 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:70] User tried to create account using already existing username
+2023-06-27 19:53:16,096 ERROR [JavaFX Application Thread] h.j.p.e.UserManager [UserManager.java:59] Username taken: aijwlduapawdjuguzfjvmjhkliawdad
+2023-06-27 19:53:16,127 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:70] User tried to create account using already existing username
+2023-06-27 20:06:30,991 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-27 20:08:10,203 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-27 20:10:39,973 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-27 20:15:18,360 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-27 20:16:24,504 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-27 20:16:56,652 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:56] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml, true)
+2023-06-27 20:32:54,545 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:48] User failed login
+2023-06-27 20:32:58,400 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:52] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-27 20:34:00,170 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:52] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-27 20:35:56,678 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:48] User failed login
+2023-06-27 20:36:09,568 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-27 20:36:39,163 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-27 20:36:43,043 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:52] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-27 20:45:36,274 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:52] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-27 20:46:52,185 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:52] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-27 20:50:25,156 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:52] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-27 20:56:18,698 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:109] Admin tried to delete themselves
+2023-06-27 20:56:23,371 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:129] Admin deleted user
+2023-06-27 20:56:25,809 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:163] Admin saved changes
+2023-06-27 20:56:28,859 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:94] Admin logged out
+2023-06-27 20:59:30,517 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:52] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-27 21:04:34,958 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:134] Admin deleted user
+2023-06-27 21:05:13,835 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:169] Admin saved changes
+2023-06-27 21:05:16,408 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:95] Admin logged out
+2023-06-27 21:06:04,043 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-27 21:06:31,944 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:258] API reached limit and cannot fetch data
+2023-06-27 21:08:26,149 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-27 21:08:36,917 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:134] Admin deleted user
+2023-06-27 21:08:52,316 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:169] Admin saved changes
+2023-06-27 21:08:54,383 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:95] Admin logged out
+2023-06-27 21:23:08,441 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:48] User failed login
+2023-06-27 21:23:24,276 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-27 21:24:25,042 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:48] User failed login
+2023-06-27 23:28:57,700 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:48] User failed login
+2023-06-27 23:29:01,304 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:84] Failed to store user to database
+2023-06-27 23:29:47,629 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-27 23:40:05,101 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:134] Admin deleted user
+2023-06-27 23:40:07,326 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:169] Admin saved changes
+2023-06-27 23:40:56,336 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:95] Admin logged out
+2023-06-27 23:41:53,915 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:258] API reached limit and cannot fetch data
+2023-06-27 23:44:11,858 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-27 23:44:19,250 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:48] User failed login
+2023-06-27 23:47:03,598 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:134] Admin deleted user
+2023-06-27 23:47:43,517 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:110] Admin tried to delete themselves
+2023-06-27 23:48:08,968 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:169] Admin saved changes
+2023-06-27 23:48:15,557 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:95] Admin logged out
+2023-06-27 23:55:59,547 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:84] Failed to store user to database
+2023-06-27 23:56:03,083 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:86] Error while trying to connect to the database
+2023-06-27 23:59:28,575 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-28 00:00:27,203 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-28 00:00:36,504 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-28 16:03:42,484 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:48] User failed login
+2023-06-28 16:03:48,690 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:86] Error while trying to connect to the database
+2023-06-28 22:27:57,513 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:95] Admin logged out
+2023-06-28 22:35:47,930 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-28 22:35:53,330 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-28 22:37:24,147 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-28 22:40:58,265 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:95] Admin logged out
+2023-06-28 22:41:03,943 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-28 22:41:28,128 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:134] Admin deleted user
+2023-06-28 22:41:35,667 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:169] Admin saved changes
+2023-06-28 22:56:28,779 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:52] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-28 22:56:39,709 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:52] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-28 22:56:41,183 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:52] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-28 22:56:57,207 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:52] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-28 22:58:29,780 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:52] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-28 23:02:09,513 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:52] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-28 23:04:18,072 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:52] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-28 23:06:31,383 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:134] Admin deleted user
+2023-06-28 23:06:34,137 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:169] Admin saved changes
+2023-06-28 23:07:03,768 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:134] Admin deleted user
+2023-06-28 23:07:12,615 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:169] Admin saved changes
+2023-06-28 23:09:26,061 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:134] Admin deleted user
+2023-06-28 23:09:28,243 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:169] Admin saved changes
+2023-06-28 23:10:35,486 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:50] User failed login
+2023-06-28 23:10:54,253 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-28 23:11:02,326 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:134] Admin deleted user
+2023-06-28 23:11:05,509 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:170] Admin saved changes
+2023-06-28 23:13:58,282 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-28 23:15:44,100 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-28 23:16:08,922 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-28 23:18:19,995 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:134] Admin deleted user
+2023-06-28 23:18:23,585 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:170] Admin saved changes
+2023-06-28 23:20:42,895 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:110] Admin tried to delete themselves
+2023-06-28 23:20:45,144 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:170] Admin saved changes
+2023-06-28 23:20:49,158 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:95] Admin logged out
+2023-06-28 23:21:08,582 ERROR [JavaFX Application Thread] h.j.p.e.UserManager [UserManager.java:57] Username taken: qalgfauwf
+2023-06-28 23:21:08,611 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:76] User tried to create account using already existing username
+2023-06-28 23:21:18,363 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-28 23:21:26,237 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:134] Admin deleted user
+2023-06-28 23:21:27,920 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:170] Admin saved changes
+2023-06-28 23:23:32,758 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:134] Admin deleted user
+2023-06-28 23:23:34,881 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:170] Admin saved changes
+2023-06-28 23:23:42,850 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:170] Admin saved changes
+2023-06-28 23:23:49,915 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:95] Admin logged out
+2023-06-28 23:24:46,150 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:95] Admin logged out
+2023-06-28 23:33:19,157 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:49] User failed login
+2023-06-28 23:33:22,075 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:51] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-28 23:38:32,905 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:51] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-28 23:48:41,281 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:50] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-28 23:50:03,033 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:50] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-28 23:50:58,454 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:50] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-28 23:56:03,350 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:50] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-28 23:56:53,762 ERROR [JavaFX Application Thread] h.j.p.e.UserManager [UserManager.java:57] Username taken: admin
+2023-06-28 23:56:53,873 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:75] User tried to create account using already existing username
+2023-06-28 23:57:41,193 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:50] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-28 23:59:13,005 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:50] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-28 23:59:57,879 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:134] Admin deleted user
+2023-06-29 00:00:00,066 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:170] Admin saved changes
+2023-06-29 00:00:04,104 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:95] Admin logged out
+2023-06-29 00:00:12,484 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:95] Admin logged out
+2023-06-29 00:14:30,869 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:50] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-29 00:16:45,211 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:50] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-29 00:18:45,599 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:50] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-29 00:19:07,520 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:50] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-29 00:21:27,702 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:50] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-29 00:22:23,160 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:50] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-29 00:23:38,889 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:50] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-29 00:23:53,848 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:50] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-29 00:39:17,577 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:105] Admin logged out
+2023-06-29 00:40:07,925 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:144] Admin deleted user
+2023-06-29 00:40:11,329 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:180] Admin saved changes
+2023-06-29 00:40:14,397 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:105] Admin logged out
+2023-06-29 00:47:18,333 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:50] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-29 00:47:34,625 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:50] Loading FXML for screen: Admin Panel(views/manage-users-view.fxml)
+2023-06-29 00:48:31,705 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-29 00:48:54,627 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:150] Admin deleted user
+2023-06-29 00:51:04,923 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:150] Admin deleted user
+2023-06-29 00:51:13,865 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:186] Admin saved changes
+2023-06-29 00:51:23,065 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:150] Admin deleted user
+2023-06-29 00:51:29,328 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:186] Admin saved changes
+2023-06-29 00:53:13,876 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-29 00:53:34,608 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:150] Admin deleted user
+2023-06-29 00:53:36,779 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:186] Admin saved changes
+2023-06-29 00:53:46,190 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:186] Admin saved changes
+2023-06-29 00:55:23,619 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:111] Admin logged out
+2023-06-29 00:55:32,163 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-29 00:55:44,609 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:150] Admin deleted user
+2023-06-29 00:55:48,854 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:186] Admin saved changes
+2023-06-29 00:59:44,189 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:150] Admin deleted user
+2023-06-29 00:59:45,827 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:186] Admin saved changes
+2023-06-29 12:22:47,459 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:49] User failed login
+2023-06-29 12:23:17,121 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:186] Admin saved changes
+2023-06-29 12:57:58,588 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:111] Admin logged out
+2023-06-29 13:27:50,642 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:50] Loading FXML for screen: Profit Calculator(views/profit-calculator-view.fxml)
+2023-06-29 13:30:11,794 ERROR [JavaFX Application Thread] h.j.p.p.Application [Application.java:50] Loading FXML for screen: Profit Calculator(views/profit-calculator-view.fxml)
+2023-06-29 13:42:19,491 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:49] User failed login
+2023-06-29 13:52:14,716 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:86] Error while trying to connect to the database
+2023-06-29 13:53:51,058 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-06-29 14:10:03,053 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:49] User failed login
+2023-06-29 14:38:53,816 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:121] User logged out
+2023-07-03 23:31:43,557 ERROR [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:86] Error while trying to connect to the database
+2023-07-03 23:48:01,575 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:150] Admin deleted user
+2023-07-03 23:48:05,296 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:186] Admin saved changes
+2023-07-03 23:48:41,842 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:111] Admin logged out
+2023-07-05 20:55:42,500 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:117] User logged out
+2023-07-05 21:23:11,740 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:49] User failed login
+2023-07-05 21:25:33,500 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:116] User logged out
+2023-07-05 21:29:24,830 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:49] User failed login
+2023-07-05 21:29:51,568 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:143] Admin deleted user
+2023-07-05 21:30:00,259 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:176] Admin saved changes
+2023-07-05 21:30:21,381 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:104] Admin logged out
+2023-07-05 21:30:33,026 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:116] User logged out
+2023-07-05 21:30:39,454 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:143] Admin deleted user
+2023-07-05 21:30:43,138 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:143] Admin deleted user
+2023-07-05 21:30:46,036 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:176] Admin saved changes
+2023-07-05 21:30:49,434 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:104] Admin logged out
+2023-07-05 21:35:30,867 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:95] Error while trying to connect to the database: Connection is broken: "java.net.ConnectException: Connection refused: no further information: localhost" [90067-214]
+2023-07-06 08:19:06,683 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:49] User failed login
+2023-07-06 09:22:01,100 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:116] User logged out
+2023-07-06 09:38:44,640 INFO [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:143] Admin deleted user
+2023-07-06 09:38:55,507 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:176] Admin saved changes
+2023-07-06 09:39:54,879 INFO [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:104] Admin logged out
+2023-07-06 09:39:58,566 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:49] User failed login
+2023-07-06 09:40:01,448 ERROR [JavaFX Application Thread] h.j.p.e.UserManager [UserManager.java:45] Invalid username: 
+2023-07-06 09:40:01,484 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:68] User tried to create account using invalid characters
+2023-07-06 09:42:48,921 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:49] User failed login
+2023-07-06 09:52:05,650 INFO [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:104] Admin logged out
+2023-07-06 09:52:53,768 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:116] User logged out
+2023-07-06 09:53:20,892 INFO [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:104] Admin logged out
+2023-07-06 09:54:53,045 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:116] User logged out
+2023-07-06 09:55:46,713 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:116] User logged out
+2023-07-06 09:57:10,717 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:116] User logged out
+2023-07-06 09:58:06,223 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:116] User logged out
+2023-07-06 10:14:36,898 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:120] User logged out
+2023-07-06 10:21:34,540 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:176] Admin saved changes
+2023-07-06 10:21:49,169 INFO [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:143] Admin deleted user
+2023-07-06 10:21:54,108 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:176] Admin saved changes
+2023-07-06 10:23:08,161 INFO [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:104] Admin logged out
+2023-07-06 10:23:22,104 ERROR [JavaFX Application Thread] h.j.p.e.UserManager [UserManager.java:45] Invalid username: 
+2023-07-06 10:23:22,165 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:68] User tried to create account using invalid characters
+2023-07-06 10:23:57,553 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:120] User logged out
+2023-07-06 10:27:39,622 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:120] User logged out
+2023-07-06 10:27:58,726 INFO [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:143] Admin deleted user
+2023-07-06 10:28:06,616 INFO [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:143] Admin deleted user
+2023-07-06 10:28:09,217 ERROR [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:176] Admin saved changes
+2023-07-06 10:29:39,811 INFO [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:143] Admin deleted user
+2023-07-06 10:30:21,368 INFO [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:104] Admin logged out
+2023-07-06 10:30:34,506 ERROR [JavaFX Application Thread] h.j.p.e.UserManager [UserManager.java:57] Username taken: karlo
+2023-07-06 10:30:34,531 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:77] User tried to create an account using an already existing username
+2023-07-06 10:32:22,296 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:49] User failed login
+2023-07-06 10:32:29,204 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:49] User failed login
+2023-07-06 10:32:46,335 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:49] User failed login
+2023-07-06 10:32:50,144 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:49] User failed login
+2023-07-06 10:41:41,266 INFO [JavaFX Application Thread] h.j.p.p.Application [PriceFetchView.java:120] User logged out
+2023-07-06 10:44:30,787 ERROR [JavaFX Application Thread] h.j.p.p.Application [CryptoPriceChartView.java:189] Error while trying to connect to the database: 
+2023-07-06 10:44:47,438 ERROR [JavaFX Application Thread] h.j.p.p.Application [CryptoPriceChartView.java:189] Error while trying to connect to the database: 
+2023-07-06 10:47:09,017 ERROR [JavaFX Application Thread] h.j.p.p.Application [CryptoPriceChartView.java:189] Error while trying to connect to the database: 
+2023-07-06 11:05:10,262 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:49] User failed login
+2023-07-06 11:05:13,199 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:49] User failed login
+2023-07-06 11:05:15,964 ERROR [JavaFX Application Thread] h.j.p.p.Application [LoginView.java:49] User failed login
+2023-07-06 11:05:31,430 INFO [JavaFX Application Thread] h.j.p.p.Application [ManageUsersView.java:104] Admin logged out
